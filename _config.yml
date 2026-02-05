@@ -1,1 +1,23 @@
+title: "Philip Akpan | Data Analyst"
+description: "Intermediate Data Analyst — dashboards, analytics, and business insights."
+theme: jekyll-theme-minimal
+
+# Site basics
+url: ""              # leave blank for GitHub Pages
+baseurl: ""          # leave blank unless using a project site with a subpath
+
+# Optional: show downloads button (minimal theme feature)
+show_downloads: false
+
+# If you want Jekyll to render these folders/pages
+include:
+  - _pages
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: set your timezone
+timezone: Africa/Lagos
 
